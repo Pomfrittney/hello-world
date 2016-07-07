@@ -1,3 +1,3 @@
 # hello-world
 My very first repository
-Off to chase my dreams, read balloon in hand.
+Off to chase my dreams, red balloon in hand.
